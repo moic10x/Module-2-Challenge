@@ -1,0 +1,414 @@
+   50  cd Desktop
+   51  ls
+   52  mkdir FinTech_Workspace
+   53  ls
+   54  FinTech_Workspace
+   55  FinTech_Workspace
+   56  cd FinTech_Workspace
+   57  ls
+   58  cd ..
+   59  pwd
+   60  cd ~
+   61  pwd
+   62  cd Desktop
+   63  cd FinTech_Workspace
+   64  ls
+   65  cd Python_Project
+   66  ls
+   67  conda activate dev
+   68  python --version
+   69  code .
+   70  python hello_python.py
+   71  conda deactivate
+   72  conda actiavte dev
+   73  conda activate dev
+   74  code .
+   75  conda deactivae
+   76  conda deactivate
+   77  pwd
+   78  ls
+   79  cd ..
+   80  ls
+   81  cd~
+   82  cd ~
+   83  cd Desktop
+   84  ls
+   85  cd Fintech
+   86  ls
+   87  cd FinTech_Workspace
+   88  ls
+   89  cd Module\ 1
+   90  ls
+   91  cd Desktop
+   92  cd Fintech
+   93  cd FinTech_Workspace
+   94  cd Module_1
+   95  conda activate dev
+   96  ls
+   97  cd Python_Project
+   98  ls
+   99  python 1_variables.py
+  100  python 1_variables.py
+  101  python 1_variables.py
+  102  conda deactivate
+  103  cd ~
+  104  cd Downloads
+  105  cd 01_Hello_Variable_World
+  106  cd ..
+  107  mv 01_Hello_Variable_World Module_1
+  108  cd ~
+  109  Designer.app
+  110  cd ~
+  111  cd Desktop
+  112  cd Fintech
+  113  cd FinTech_Workspace
+  114  cd Module_1
+  115  cd 01_Hello_Variable_World
+  116  cd Unsolved
+  117  ls
+  118  python hello_variable_world.py
+  119  cd ..
+  120  cd ..
+  121  cd 02_Listing_Assets
+  122  cd Unsolved
+  123  code ..
+  124  ls
+  125  python listing_assets.py
+  126  cd ..
+  127  cd ..
+  128  cd 03_The_401k_Shuffle
+  129  cd Unsolved
+  130  code ..
+  131  python the_401k_shuffle.py
+  132  cd ~
+  133  conda activate dev
+  134  pip -V
+  135  pip freeze
+  136  pip install fire
+  137  pip install questionary
+  138  conda deactivate
+  139  cd Desktop
+  140  cd Fintech
+  141  ls
+  142  cd FinTech_Workspace
+  143  ls
+  144  mkdir Module_2
+  145  ls
+  146  cd Module_2
+  147  ls
+  148  cd 01
+  149  cd 01_Loan_Qualifier_Financial_Calculations
+  150  cd Unsolved
+  151  ls
+  152  python app.py
+  153  cd ..
+  154  cd ..
+  155  cd 02_Loan_Qualifier_Filtering_Data
+  156  cd Unsolved
+  157  code  .
+  158  ls
+  159  python app.py
+  160  python app.py
+  161  conda activate dev
+  162  cd Desktop
+  163  cd Fintech
+  164  cd FinTech_Workspace
+  165  cd Module_2
+  166  ls
+  167  cd 01_Loan_Qualifier_Financial_Calculations
+  168  ls
+  169  cd Solved
+  170  ls
+  171  python app.py
+  172  cd ..
+  173  cd ..
+  174  cd 02
+  175  cd 02_Loan_Qualifier_Filtering_Data
+  176  cd Solved
+  177  ls
+  178  python app.py
+  179  python app.py
+  180  code  .
+  181  python atm.py
+  182  cd FinTech_Workspace
+  183  cd Module_2
+  184  01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  185  ls
+  186  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  187  cd Unsolved
+  188  python app.py
+  189  conda activate dev
+  190  jupyter lab
+  191  conda deactivate
+  192  cd Unsolved
+  193  conda activate dev
+  194  jupyter lab
+  195  conda deactivate
+  196  conda create -n atmdev python=3.7 anaconda
+  197  conda activate atmdev
+  198  cd Downloads
+  199  ls
+  200  pip install -r requirements.txt
+  201  conda env list
+  202  pip show fire
+  203  pip show questionnary
+  204  pip show questionary
+  205  ls
+  206  cd CU-VIRT-FIN-PT-03-2023-U-B-main-02-Financial-Applications-Python-2-Activities
+  207  cd 02-Financial-Applications-Python
+  208  cd 2
+  209  cd Activities
+  210  cd 02_Stu_Build_ATM_Functions
+  211  cd Solved
+  212  cd ..
+  213  cd ..
+  214  cd ..
+  215  cd ..
+  216  code  .
+  217  PWD
+  218   /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60775 -- /Users/moisescoriat/Downloads/CU-VIRT-FIN-PT-03-2023-U-B-main-02-Financial-Applications-Python-2-Activities/02-Financial-Applications-Python/2/Activities/02_Stu_Build_ATM_Functions/Solved/atm/atm.py 
+  219   cd /Users/moisescoriat/Downloads/CU-VIRT-FIN-PT-03-2023-U-B-main-02-Financial-Applications-Python-2-Activities/02-Financial-Applications-Python ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60950 -- /Users/moisescoriat/Downloads/CU-VIRT-FIN-PT-03-2023-U-B-main-02-Financial-Applications-Python-2-Activities/02-Financial-Applications-Python/2/Activities/02_Stu_Build_ATM_Functions/Solved/atm/atm.py 
+  220  cd 2
+  221  cd Activities
+  222  cd 02_Stu_Build_ATM_Functions
+  223  cd Solved
+  224  cd atm
+  225  python atm.py
+  226  conda activate atmdev
+  227  python atm.py
+  228  123456
+  229  123456
+  230  222222
+  231  pwd
+  232  cd ..
+  233  cd atm
+  234   /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/atmdev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61151 -- /Users/moisescoriat/Downloads/CU-VIRT-FIN-PT-03-2023-U-B-main-02-Financial-Applications-Python-2-Activities/02-Financial-Applications-Python/2/Activities/02_Stu_Build_ATM_Functions/Solved/atm/atm.py 
+  235   cd /Users/moisescoriat/Downloads/CU-VIRT-FIN-PT-03-2023-U-B-main-02-Financial-Applications-Python-2-Activities/02-Financial-Applications-Python ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/atmdev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61521 -- /Users/moisescoriat/Downloads/CU-VIRT-FIN-PT-03-2023-U-B-main-02-Financial-Applications-Python-2-Activities/02-Financial-Applications-Python/2/Activities/02_Stu_Build_ATM_Functions/Solved/atm/atm.py 
+  236   /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/atmdev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61778 -- /Users/moisescoriat/Downloads/CU-VIRT-FIN-PT-03-2023-U-B-main-02-Financial-Applications-Python-2-Activities/02-Financial-Applications-Python/2/Activities/02_Stu_Build_ATM_Functions/Solved/atm/atm.py 
+  237  code ..
+  238  cd ..
+  239  cd ~
+  240  cd Desk
+  241  ls
+  242  cd Desktop
+  243  cd Fintech
+  244  mkdir test
+  245  cd test
+  246  git clone git@github.com:moic10x/codingdemo.git
+  247  ls
+  248  cd codingdemo
+  249  git pull
+  250  git status
+  251  ls
+  252  git status
+  253  git add.
+  254  git add .
+  255  git status
+  256  git commit -m "added some files"
+  257  git push
+  258  conda env list
+  259  '/Users/moisescoriat/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py'
+  260  '/Users/moisescoriat/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py'
+  261  cd D
+  262  cd Downloads
+  263  cd 02_Nested_Conditionals
+  264  cd Unsolved
+  265  ls
+  266  python nested_conditionals.py
+  267  python nested_conditionals.py
+  268  python nested_conditionals.py
+  269  python nested_conditionals.py
+  270  python nested_conditionals.py
+  271  cd .
+  272  cd ..
+  273  cd ..
+  274  cd 03_Split_Second_Homebuying
+  275  cd Unsolved
+  276  ls
+  277  python split_second_homebuying.py
+  278  python split_second_homebuying.py
+  279  python split_second_homebuying.py
+  280  python split_second_homebuying.py
+  281  conda activate dev
+  282  cd ..
+  283   /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 58478 -- /Users/moisescoriat/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  284   cd /Users/moisescoriat/Downloads/02_Pathways_to_Success_Part_1 ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 58510 -- /Users/moisescoriat/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py 
+  285   /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55796 -- /Users/moisescoriat/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py 
+  286   cd /Users/moisescoriat/Downloads/01_A_Definitive_Buy/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55901 -- /Users/moisescoriat/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py 
+  287   cd /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56040 -- /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  288   cd /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56047 -- /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  289   cd /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56057 -- /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  290   cd /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56065 -- /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  291   cd /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56071 -- /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  292   cd /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56075 -- /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  293   cd /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56081 -- /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  294   cd /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56088 -- /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  295   cd /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56097 -- /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  296   cd /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56108 -- /Users/moisescoriat/Downloads/02_Returned_Goods/Unsolved/returned_goods.py 
+  297   cd /Users/moisescoriat/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56233 -- /Users/moisescoriat/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  298   cd /Users/moisescoriat/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56871 -- /Users/moisescoriat/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  299   cd /Users/moisescoriat/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56929 -- /Users/moisescoriat/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py 
+  300   cd /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57382 -- /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  301   cd /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57435 -- /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  302   cd /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57445 -- /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  303   cd /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57468 -- /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  304   cd /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57473 -- /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  305   cd /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57480 -- /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  306   cd /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57494 -- /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  307   cd /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57511 -- /Users/moisescoriat/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py 
+  308   /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59130 -- /Users/moisescoriat/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  309   cd /Users/moisescoriat/Downloads/03_Pathways_to_Success_Part_2 ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59142 -- /Users/moisescoriat/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py 
+  310  code .
+  311   /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59482 -- /Users/moisescoriat/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py 
+  312   /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59768 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  313   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59775 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  314   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59781 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  315   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59801 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  316   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59807 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  317   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59836 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  318   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61205 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  319   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61229 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  320   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61360 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  321   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61563 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  322   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61598 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  323   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 62515 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  324   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 62904 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  325   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 62912 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  326   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 62920 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  327   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63658 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  328   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64068 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  329   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64083 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  330   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64107 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  331   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64221 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  332   /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64801 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  333   cd /Users/moisescoriat/Desktop/Fintech ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64840 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  334   cd /Users/moisescoriat/Desktop/Fintech ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65085 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  335   cd /Users/moisescoriat/Desktop/Fintech ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65124 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  336   /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65416 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  337   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65426 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  338   cd /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65478 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_1/Challenge_1/Starter_Code/loan_analyzer.py 
+  339  cd Starter_Code
+  340  python loan_analyzer.py
+  341  cade .
+  342  code .
+  343  code .
+  344  cd Unsolved
+  345  python pathways_to_success_part_2.py
+  346  python pathways_to_success_part_2.py
+  347  cd Desktop
+  348  cd Fintech
+  349  cd FinT
+  350  cd FinTech_Workspace
+  351  cd CU
+  352  cd ..
+  353  cd CU-VIRT-FIN-PT-03-2023-U-B/git pull
+  354  cd CU-VIRT-FIN-PT-03-2023-U-B
+  355  git pull
+  356  cd Desktop/
+  357  cd Fin
+  358  cd FinT
+  359  cd Fintech
+  360  cd CU
+  361  cd CU-VIRT-FIN-PT-03-2023-U-B
+  362  git pull
+  363  conda activate dev
+  364  jupyter lab
+  365  conda activate dev
+  366  code ..
+  367  cd Module_2
+  368  python cli.py
+  369  python cli.py --pants=True
+  370  conda activate dev
+  371  jupyter lab
+  372   /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52509 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_2/cli.py 
+  373  conda activate base
+  374   cd /Users/moisescoriat/Desktop/Fintech ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52517 -- /Users/moisescoriat/Desktop/Fintech/FinTech_Workspace/Module_2/cli.py 
+  375  python cli.py --pants=True
+  376  cd Des
+  377  cd FinTech_Workspace
+  378  cd Module_2
+  379  python cli.py --pants=True
+  380  conda activate dev
+  381  python cli.py --pants=True
+  382  python cli.py --pants=True
+  383  python cli.py --pants=True
+  384  python cli.py --pants=False
+  385  python cli.py --pants=False
+  386  python cli.py --pants=True
+  387  python cli.py
+  388  python cli.py --pants=true
+  389  python cli.py --pants=True
+  390  python cli.py --help
+  391  conda activate dev
+  392  jupyter lab
+  393  conda activate dev
+  394  clear
+  395  code .
+  396  ls
+  397  cd Unsolved
+  398  ld
+  399  ls
+  400  python app.py
+  401  python app.py --credit_score = 750
+  402  python app.py --credit_score=750
+  403  pip list
+  404  pip freeze
+  405  celar
+  406  clear
+  407  pip show fire
+  408  pip show query
+  409  pip show questionnary
+  410  pip show questionary
+  411  python app.py
+  412  python app.py
+  413  python app.py
+  414  python app.py
+  415   /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60143 -- /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py 
+  416   cd /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60151 -- /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py 
+  417  conda activate dev
+  418   cd /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60169 -- /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py 
+  419   cd /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App ; /usr/bin/env /usr/bin/python3 /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60637 -- /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py 
+  420   cd /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60656 -- /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py 
+  421   cd /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60656 -- /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py 
+  422  cd Unsolved
+  423  python app.py --credit_score=750
+  424  python app.py --credit_score=750 --debt=3000 --income=50000
+  425  python app.py --credit_score=750 --debt=3000 --income=50000
+  426  python app.py --credit_score=450 --debt=3000 --income=50000
+  427  python app.py --credit_score=450 --debt=60000 --income=50000
+  428   cd /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60798 -- /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/dialogs.py 
+  429   cd /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60839 -- /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/dialogs.py 
+  430   cd /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60839 -- /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/dialogs.py 
+  431   cd /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60850 -- /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/dialogs.py 
+  432   cd /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 60860 -- /Users/moisescoriat/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/dialogs.py 
+  433   /usr/bin/env /Users/moisescoriat/opt/anaconda3/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61239 -- /Users/moisescoriat/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py 
+  434  conda activate base
+  435  conda activate dev
+  436  cd Unsolved
+  437  python app.py --credit_score=750 --debt=5000 --income=20000
+  438  python app.py --credit_score=750 --debt=5000 --income=20000
+  439   cd /Users/moisescoriat/Downloads/02_Adding_questionary_to_Loan_Qualifier ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61361 -- /Users/moisescoriat/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py 
+  440  cd Unsolved/
+  441  python app.py
+  442   cd /Users/moisescoriat/Downloads/02_Adding_questionary_to_Loan_Qualifier ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61413 -- /Users/moisescoriat/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py 
+  443  cd Unsolved
+  444  cd app.py
+  445  python app.py
+  446  cd ..
+  447  git clone git@github.com:moic10x/Module-2-Challenge.git
+  448  git status
+  449  cd Module-2-Challenge
+  450  git status
+  451  git add .
+  452  git status
+  453  git commit -m "This is adding the starter files in the git repo"
+  454  git status
+  455  git push
+  456  code .
+  457  git status
+  458  git add .
+  459  git status
+  460  git commit -m "Added the save_csv module"
+  461  git status
+  462  history 50 > terminal_history.txt
+  463  conda activate dev
