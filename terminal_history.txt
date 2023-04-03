@@ -394,21 +394,103 @@
   443  cd Unsolved
   444  cd app.py
   445  python app.py
-  446  cd ..
-  447  git clone git@github.com:moic10x/Module-2-Challenge.git
-  448  git status
-  449  cd Module-2-Challenge
-  450  git status
-  451  git add .
-  452  git status
-  453  git commit -m "This is adding the starter files in the git repo"
-  454  git status
-  455  git push
-  456  code .
-  457  git status
-  458  git add .
-  459  git status
-  460  git commit -m "Added the save_csv module"
-  461  git status
-  462  history 50 > terminal_history.txt
-  463  conda activate dev
+  446   /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63766 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  447  conda activate dev
+  448   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63776 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  449   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63787 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  450   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63795 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  451   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63815 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  452   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63868 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  453   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63877 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  454   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63877 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  455   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63888 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  456   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63897 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  457   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 63908 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  458   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64587 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  459   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64615 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  460   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64640 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  461   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64679 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  462   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64784 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  463   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64804 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  464   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64820 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  465   /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64830 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  466  conda activate dev
+  467   /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 64839 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  468   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65009 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  469   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65034 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  470   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65064 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  471   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65107 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  472   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65117 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  473   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65124 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  474   cd /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge ; /usr/bin/env /Users/moisescoriat/opt/anaconda3/envs/dev/bin/python /Users/moisescoriat/.vscode/extensions/ms-python.python-2023.4.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65143 -- /Users/moisescoriat/Desktop/Fintech/Module-2-Challenge/app.py 
+  475   code .
+  476  git config --global user.name Moises Coriat
+  477  git config --global user.email moises.coriat10@gmail.com
+  478  git config --list
+  479  cd ..
+  480  cd ..
+  481  cd Desk
+  482  cd Desktop
+  483  cd Fintech
+  484  git clone https://github.com/moic10x/the_vault.git
+  485  ls
+  486  cd the_vault
+  487  git status
+  488  git add README.md
+  489  git status
+  490  touch
+  491  ls
+  492  touch example.txt
+  493  git status
+  494  git add example.txt
+  495  git status
+  496  git commit -m "added new txt file and edited readme"
+  497  git status
+  498  git push
+  499  git push
+  500  git push
+  501  git remote -v
+  502  git remote set-url origin git@github.com:moic10x/the_vault.git
+  503  git remote -v
+  504  git push
+  505  cd ..
+  506  git clone git@github.com:moic10x/Module-2-Challenge.git
+  507  git status
+  508  cd Module-2-Challenge
+  509  git status
+  510  git add .
+  511  git status
+  512  git commit -m "This is adding the starter files in the git repo"
+  513  git status
+  514  git push
+  515  code .
+  516  git status
+  517  git add .
+  518  git status
+  519  git commit -m "Added the save_csv module"
+  520  git status
+  521  history 50 > terminal_history.txt
+  522  conda activate dev
+  523  history 50 > terminal_history.txt
+  524  git status
+  525  git add terminal_history.txt
+  526  git status
+  527  git commit -m "Added the terminal history file."
+  528  git status
+  529  git push
+  530  cd Downloads
+  531  cd 01
+  532  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  533  cd Unsolved
+  534  cd Unsolved conda activate dev
+  535  conda activate dev
+  536  python app.py --credit_score=750
+  537  python app.py -credit_score=750
+  538  python app.py -credit_score=750
+  539  python app.py -credit_score=750
+  540  git status
+  541  git add README.md
+  542  git add code_screenshots
+  543  git status
+  544  git commit -m "Updated readme file"
+  545  git status
